@@ -1,0 +1,22 @@
+{
+  "name": "Fouad El Sayed — Portfolio",
+  "short_name": "F.Sayed",
+  "description": "Senior Mud Logger & Petroleum Geophysicist based in Qalyobia, Cairo, Egypt.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#e86600",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicon.ico",
+      "sizes": "32x32 64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
